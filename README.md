@@ -10,12 +10,6 @@ e.create a pull request.
 
 N/B>>REMEMBER NOT TO DELETE YOUR BRANCH.
 
-##Rnbs Playlist (BY Chege)
--Life is One big fight by Tatiana Manaois
--Live more and love more by Cat Burns
--Perfect by Ed Shereen
--Ghost by Justin Bieber
--Peaches by Justin Bieber
 
 ## Hiphop (by Collins)
 - Pretty Little fears - Jcole 6lack
