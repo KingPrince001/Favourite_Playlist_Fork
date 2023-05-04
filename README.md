@@ -9,3 +9,10 @@ d.Make changes, commit and push the file to the repo on your branch.
 e.create a pull request.
 
 N/B>>REMEMBER NOT TO DELETE YOUR BRANCH.
+
+## Hiphop
+- Pretty Little fears - Jcole 6lack
+- Hotel lobby - Quavo
+- Pushing P - Future
+
+
