@@ -24,4 +24,9 @@ N/B>>REMEMBER NOT TO DELETE YOUR BRANCH.
 - Hotel lobby - Quavo
 - Pushing P - Future
 
+##Gospel
+- Waited - Travis
+- Overflow - Cobbs
+- Goodness - Tasha
+
 
